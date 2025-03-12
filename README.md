@@ -1,29 +1,50 @@
-# ✔Hi, I am dark_c0dex
-## Ethical Hacker
+# 🚀 DARK_C0DEX  
+## 🛡️ ETHICAL HACKER | CYBERSECURITY ENTHUSIAST  
 
+Welcome to my GitHub! I'm **dark_c0dex**, an **Ethical Hacker** passionate about cybersecurity, penetration testing, and digital forensics. I specialize in **identifying vulnerabilities, developing security tools, and strengthening digital defenses**. My mission is to **make the internet a safer place—one line of code at a time**.  
 
-Welcome to my GitHub! I'm dark_c0dex, an Ethical Hacker passionate about securing digital ecosystems and promoting cybersecurity awareness. With a background in ethical hacking, I specialize in identifying vulnerabilities, conducting penetration tests, and developing robust security solutions. Through my contributions here, I aim to share insights, tools, and resources to empower others in safeguarding their digital assets. Join me in the mission to make the online world a safer place, one line of code at a time.
+---
 
-✔ Skills: `PYTHON` , `HTML` , `CSS` , `JAVASCRIPT`
+## 🛠️ SKILLS  
+🔹 **Programming:** `Python` | `JavaScript` | `HTML` | `CSS`  
+🔹 **Cybersecurity:** Penetration Testing | Red Teaming | Malware Analysis  
+🔹 **Networking:** TCP/IP | Firewalls | Packet Analysis  
+🔹 **Tools & Frameworks:** Metasploit | Nmap | Burp Suite | Wireshark  
 
-- 🔭 I’m currently working on the Python Tool
-- 🌱 I’m currently learning JAVASCRIPT 
-- 💬 Ask me about Ethical Hacking 
+---
 
+## 🔍 CURRENTLY WORKING ON  
+- ⚙ **Developing a Python-based security tool**  
+- 📚 **Learning advanced JavaScript for web security**  
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dark-c0dex)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/dark-c0dex)  
+---
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+## 💬 ASK ME ABOUT  
+- 🏴‍☠️ **Ethical Hacking & Penetration Testing**  
+- 🔐 **Cybersecurity Best Practices**  
+- 🕵️ **OSINT & Digital Forensics**  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dark-c0dex)](https://github.com/ryo-ma/github-profile-trophy)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dark-c0dex)](https://github.com/anuraghazra/github-readme-stats)
+## 📢 CONNECT WITH ME  
+[![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg)](https://github.com/dark-c0dex)  
+[![Mail](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mail.svg)](hm6536791@gmail.com)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dark-c0dex&show_icons=true&count_private=true)  
+---
 
+## 🏆 ACHIEVEMENTS  
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dark-c0dex&theme=darkhub&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dark-c0dex&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dark-c0dex&show_icons=true&count_private=true&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=dark-c0dex&theme=radical)  
+
+---
+
+## 📊 GITHUB METRICS  
+![GitHub Metrics](https://metrics.lecoq.io/dark-c0dex)  
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/dark-c0dex/contributions?format=svg&private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/dark-c0dex)  
+---
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=dark-c0dex)  
-
+🔥 **"Hack the world ethically, secure the future!"** 🔥
