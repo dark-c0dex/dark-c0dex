@@ -1,6 +1,26 @@
 <h1 align="center">Hi 👋, I'm Dark_c0dex</h1>
 
-Welcome to my GitHub! I'm **dark_c0dex**, an **Ethical Hacker** passionate about cybersecurity, penetration testing, and digital forensics. I specialize in **identifying vulnerabilities, developing security tools, and strengthening digital defenses**. My mission is to **make the internet a safer place—one line of code at a time**.  
+"Justice isn't given, it's taken."
+
+👾 Who Am I?
+I am Dark_c0dex, a cyber warrior in the shadows. Some call me a Black Hat, but I fight for justice, not chaos. The world is controlled by systems, and those who control the systems control everything. My mission? To expose corruption, dismantle oppression, and bring truth to light.
+
+⚡ My Skills
+🔹 Ethical Exploitation (With a Twist)
+🔹 Penetration Testing & Red Teaming
+🔹 Cryptography & Data Forensics
+🔹 Reverse Engineering & Malware Development
+🔹 OSINT & Anonymity Tactics
+🔹 Bypassing Firewalls & Intrusion Detection
+
+⚠️ What I Stand For
+🚀 Freedom of Information – No secrets should harm the people.
+🚀 Privacy & Anonymity – Everyone has the right to digital security.
+🚀 Justice Over Rules – If laws protect the corrupt, they deserve to be broken.
+🚀 Cyber Resistance – The fight isn’t over until the truth wins.
+
+🔥 The System Fears Those Who Understand It.
+💀 I Am Watching. I Am Learning. I Am Fighting.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dark-c0dex&label=Profile%20views&color=0e75b6&style=flat" alt="dark-c0dex" /> </p>
 
