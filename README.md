@@ -24,11 +24,7 @@ Welcome to my GitHub! I'm **dark_c0dex**, an **Ethical Hacker** passionate about
 - 🔐 **Cybersecurity Best Practices**  
 - 🕵️ **OSINT & Digital Forensics**  
 
----
-
-## 📢 CONNECT WITH ME  
-[![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg)](https://github.com/dark-c0dex)  
-[![Mail](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mail.svg)](hm6536791@gmail.com)  
+--- 
 
 ---
 
