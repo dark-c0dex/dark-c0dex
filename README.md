@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dark_c0dex</h1>
-<h3 align="center">Welcome to my GitHub! I'm **dark_c0dex**, an **Ethical Hacker** passionate about cybersecurity, penetration testing, and digital forensics. I specialize in **identifying vulnerabilities, developing security tools, and strengthening digital defenses**. My mission is to **make the internet a safer place—one line of code at a time**.</h3>
+Welcome to my GitHub! I'm **dark_c0dex**, an **Ethical Hacker** passionate about cybersecurity, penetration testing, and digital forensics. I specialize in **identifying vulnerabilities, developing security tools, and strengthening digital defenses**. My mission is to **make the internet a safer place—one line of code at a time**.  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dark-c0dex&label=Profile%20views&color=0e75b6&style=flat" alt="dark-c0dex" /> </p>
 
