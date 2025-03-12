@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Dark_c0dex</h1>
-<h3 align="center">A Black Hat Hacker</h3>
+<h3 align="center">Welcome to my GitHub! I'm **dark_c0dex**, an **Ethical Hacker** passionate about cybersecurity, penetration testing, and digital forensics. I specialize in **identifying vulnerabilities, developing security tools, and strengthening digital defenses**. My mission is to **make the internet a safer place—one line of code at a time**.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dark-c0dex&label=Profile%20views&color=0e75b6&style=flat" alt="dark-c0dex" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dark-c0dex" alt="dark-c0dex" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 👨‍💻 All of my projects are available at [https://github.com/dark-c0dex/](https://github.com/dark-c0dex/)
+
+- 📫 How to reach me **hm6536791@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
